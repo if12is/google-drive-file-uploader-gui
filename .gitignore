@@ -1,0 +1,17 @@
+# Google OAuth credentials
+client_secrets.json
+token.pickle
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.*
+credentials.json
+token.json
+.DS_Store
+.idea/
+.vscode/
